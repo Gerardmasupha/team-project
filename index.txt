@@ -1,2 +1,3 @@
 Name: Alex 
 Skills: Git, GitHub 
+Role: Developer 
